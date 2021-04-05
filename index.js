@@ -1,1 +1,4 @@
-console.log('sup there my dude')
+function doThings(){
+  console.log('sup there my dude')
+
+}
